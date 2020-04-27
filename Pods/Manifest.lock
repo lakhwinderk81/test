@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - IQKeyboardManagerSwift (6.5.5)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - AlamofireImage (~> 3.6.0)
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: bde5bf8c528de4348da1b54790ca5f2d1511bc81
+
+COCOAPODS: 1.9.0
